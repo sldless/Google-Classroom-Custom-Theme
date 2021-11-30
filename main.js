@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Google Classroom Custom Theme
 // @version      0.0.1
-// @description  A custom theme for me. Because I don't like google classrooms light mode. forked by https://greasyfork.org/scripts/395319-google-classroom-dark-mode-theme
+// @description  Google classroom custom theme. forked from https://greasyfork.org/scripts/395319-google-classroom-dark-mode-theme
 // @author       Sldless
 // @match        *://classroom.google.com/*
 // @grant        none
